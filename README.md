@@ -1,1 +1,2 @@
 # Practica-HTML-y-CSS
+La práctica del módulo 2 (HTML y CSS) consta de tres partes: Una página web construida desde cero con HTML y CSS la cual tuvimos que contruir en base a una ya existente y que quedara lo más parecido posible, sin la posibilidad de usar JavaScript. La segunda parte consistía en construit otra página web de reseñas sobre una película y por último una última página web donde pongamos nuestro portfolio.
